@@ -3,8 +3,7 @@ Amazon-clone(an old but have to post as well :) )
 This is a front-end clone of Amazon's website built with HTML and CSS. The project replicates the basic layout and structure of Amazon's homepage with various sections, navigation bars, and product listings. The goal is to create a similar user interface and experience as the original site.
 
 # View of website
-
-
+!(image)(Screenshot (427).png)
 Features
 Navigation Bar: Includes a logo, search bar, account, orders, and cart options.
 Hero Section: A promotional banner area at the top.
