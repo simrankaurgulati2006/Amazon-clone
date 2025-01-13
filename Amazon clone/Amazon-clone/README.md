@@ -29,34 +29,26 @@ To set up the project locally, follow these steps:
 # Directory Structure
 
 amazon-clone/
-├── index.html        # Main HTML file for the homepage
 
+
+├── index.html        # Main HTML file for the homepage
 
 ├── style.css         # Stylesheet for the website
 
-
 ├── hero_image.jpg    # Hero section background image
-
 
 ├── box1_image.jpg    # Product box image 1
 
-
 ├── box2_image.jpg    # Product box image 2
-
 
 ├── box3_image.jpg    # Product box image 3
 
-
 ├── box4_image.jpg    # Product box image 4
-
 
 ├── box5_image.jpg    # Product box image 5
 
-
 ├── box6_image.jpg    # Product box image 6
 
-
 ├── box7_image.jpg    # Product box image 7
-
 
 └── box8_image.jpg    # Product box image 8
