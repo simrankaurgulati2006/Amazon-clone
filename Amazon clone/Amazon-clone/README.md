@@ -28,7 +28,7 @@ To set up the project locally, follow these steps:
 
 # Directory Structure
 
-
+amazon-clone/
 ├── index.html        # Main HTML file for the homepage
 ├── style.css         # Stylesheet for the website
 ├── hero_image.jpg    # Hero section background image
@@ -40,4 +40,3 @@ To set up the project locally, follow these steps:
 ├── box6_image.jpg    # Product box image 6
 ├── box7_image.jpg    # Product box image 7
 └── box8_image.jpg    # Product box image 8
-
