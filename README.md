@@ -1,29 +1,44 @@
 # Amazon-clone
 Amazon-clone(an old but have to post as well :) )
-This is a front-end clone of Amazon's website built with HTML and CSS. The project replicates the basic layout and structure of Amazon's homepage with various sections, navigation bars, and product listings. The goal is to create a similar user interface and experience as the original site.
+This is a front-end clone of Amazon's website built with HTML and CSS. The project replicates the basic layout and structure of Amazon's homepage with various sections, navigation bars, product listings and footer. The goal is to create a similar user interface and experience as the original site.
 
 # View of website
-![image](Screenshot(427).png)
 
+<div style="text-align: center;">
+  <img src="Screenshot (427).png" alt="Project Image" width="500"/>
+</div>
 
 Features
 Navigation Bar: Includes a logo, search bar, account, orders, and cart options.
+
 Hero Section: A promotional banner area at the top.
+
 Product Sections: Display of different categories such as Health & Personal Care, Electronics, etc.
+
 Responsive Layout: The website is designed to be responsive across different screen sizes.
+
 Interactive Elements: Hover effects and buttons for better user interaction.
+
 Technologies Used
+
 HTML: Structure of the website.
+
 CSS: Styling of the page, including layout and responsiveness.
+
 FontAwesome: Used for icons such as the cart, search magnifying glass, and location icon.
+
 Installation
+
 To set up the project locally, follow these steps:
 
 Clone the repository to your local machine:
 
 git clone https://github.com/username/amazon-clone.git
+
 amazon-clone/
+
 Directory Structure
+
 amazon-clone/
 
 ├── index.html # Main HTML file for the homepage
