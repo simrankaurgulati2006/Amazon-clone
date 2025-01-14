@@ -8,7 +8,9 @@ This is a front-end clone of Amazon's website built with HTML and CSS. The proje
   <img src="Screenshot (427).png" alt="Project Image" width="500"/>
 </div>
 
-Features
+
+# Features
+
 Navigation Bar: Includes a logo, search bar, account, orders, and cart options.
 
 Hero Section: A promotional banner area at the top.
