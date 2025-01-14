@@ -93,16 +93,16 @@
 
 .box {
   width: 23%; 
-  height: 350px; /* Height of the box */
-  margin: 10px 10px 10px 0; /* Space between boxes */
+  height: 350px; 
+  margin: 10px 10px 10px 0; 
   background-color: white;
   padding: 20px;
-  box-sizing: border-box; /* Ensures padding doesn’t affect the box size */
+  box-sizing: border-box; 
   display: flex;
   flex-direction: column;
   justify-content: space-between;
   position: relative;
-  overflow: hidden; /* Ensure content inside doesn't overflow */
+  overflow: hidden;
 }
 
 .box-img {
@@ -111,9 +111,9 @@
   background-position: center;
   background-repeat: no-repeat;
   border-radius: 5px;
-  height: 100%; /* Fill the entire box with the image */
-  object-fit: cover; /* Prevent stretching the image */
-  max-width: 100%; /* Prevent image from exceeding the box */
+  height: 100%; 
+  object-fit: cover; 
+  max-width: 100%;
 }
 
 .box-content {
@@ -262,7 +262,7 @@ span {
 .hero-msg a {
   color: #007185;
 }
-/** footer **/
+
 .footer{
   margin-top: 15px;
 }
